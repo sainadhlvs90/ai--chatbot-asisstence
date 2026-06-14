@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+pypdf
+pandas
+openpyxl
+pillow
+duckduckgo-search
